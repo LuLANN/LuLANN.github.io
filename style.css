@@ -1,4 +1,25 @@
+h1 {
+      font-family: "Luminari", fantasy;
+      color: #483d8b;
+      font-size: 40px;
+}
+
+h2 {
+      font-family: "Apple Chancery", cursive;
+      color: #483d8b;
+      font-size: 30px;
+}
+
+
 body {
-        background: #00aa00;
+        background: 	#ffb6c1;
+
+}
+
+p {
+        font-family: "Palatino", serif;
+        color: #483d8b;
+        font-size: 25px;
+        text-align: justify;
 
 }
