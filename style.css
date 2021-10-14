@@ -1,21 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+
 h1 {
-      font-family: "Luminari", fantasy;
+      font-family: "Raleway";
       color: #87cefa;
       font-size: 40px;
+
 }
 
-h2 {
-      font-family: "Apple Chancery", cursive;
+h2,a {
+      font-family: "Raleway";
       color: #87cefa;
       font-size: 30px;
+      text-decoration: none
 }
-
 
 body {
       background-color: #000000;
 
 }
+p {
+      font-family: "Palatino", serif;
+      color: #a9a9a9;
+      font-size: 25px;
+      text-align: justify;
 
+}
 aside {
 
         width: 30%;
@@ -25,10 +35,7 @@ aside {
 }
 
 aside1 {
-        font-family: "Palatino", serif;
-        color: #a9a9a9;
-        font-size: 25px;
-        text-align: justify;
+
 
         width: 30%;
         padding-right: 15px;
