@@ -16,8 +16,9 @@ h2,a {
 }
 
 body {
-      background-color: #000000;
-
+      background-image: url("stars.gif");
+      background-size: cover;
+      cursor: url("cursor.png"), default;
 }
 p {
       font-family: "Palatino", serif;
