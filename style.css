@@ -1,19 +1,62 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Poiret+One&display=swap');
 
 h1 {
-      font-family: "Raleway";
+      font-family: "Poiret One";
+      color: #87cefa;
+      font-size: 60px;
+      padding-top: 150px;
+      margin-right: 70px;
+      transition: text-shadow 500ms, color 500ms, font-size 500ms;
+}
+h1:hover {
+      text-shadow: 2px 2px 8px;
+      font-size: 70px;
+      color: hotpink;
+}
+h2 {
+      font-family: "Poiret One";
       color: #87cefa;
       font-size: 40px;
+      margin-right: 70px;
+      transition: text-shadow 500ms, color 500ms, font-size 500ms;
 }
 
-h2,a {
-      font-family: "Raleway";
+h2:hover {
+      text-shadow: 2px 2px 8px;
+      font-size: 50px;
+      color: lightgreen;
+}
+#icon {
+      vertical-align: middle;
+      margin-right: 75px;
+}
+#resume {
+      margin-left: 140px;
+      text-decoration: none;
       color: #87cefa;
-      font-size: 30px;
-      text-decoration: none
+      font-size: 40px;
+      font-family: "Poiret One";
+}
+#app {
+
+}
+#me {
+  width: 1000px;
+  height: 850px;
+  transition: background 500ms, border 500ms;
+  margin-top: 40px;
+  margin-left: 70px;
+  border: 4px solid lightskyblue;
+  background: url("lucy_in_front_of_school.png");
 }
 
+#me:hover {
+  border: 4px solid pink;
+  background: url("cake.jpg");
+}
+#codepen {
+      margin-right: 135px;
+}
 body {
       background-image: url("stars.gif");
       background-size: cover;
@@ -21,23 +64,22 @@ body {
 }
 p {
       font-family: "Palatino", serif;
-      color: #a9a9a9;
+      color: lightcyan;
       font-size: 25px;
       text-align: justify;
+      margin-left: 50px;
 }
 
 p1 {
-      font-family: "Palatino", serif;
-      color: #a9a9a9;
+      font-family: "Palatino";
+      color: lightcyan;
       font-size: 25px;
-      text-align: center;
+      text-align: justify;
       display: block;
-      margin-left: auto;
-      margin-right: auto;
+      margin-left: 40px;
       width: 20%;
 }
 aside {
-
         width: 30%;
         padding-left: 15px;
         margin-left:  15px;
@@ -85,6 +127,4 @@ aside1 {
   to {background-color: purple;}
   to {background-color: pink;}
   to {background-color: blue;}
-
-
 }
