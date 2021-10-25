@@ -3,46 +3,46 @@
 h1 {
       font-family: "Poiret One";
       color: #87cefa;
-      font-size: 60px;
-      padding-top: 150px;
+      font-size: 40px;
+      padding-top: 100px;
       margin-right: 70px;
       transition: text-shadow 500ms, color 500ms, font-size 500ms;
 }
 h1:hover {
       text-shadow: 2px 2px 8px;
-      font-size: 70px;
+      font-size: 45px;
       color: hotpink;
 }
 h2 {
       font-family: "Poiret One";
       color: #87cefa;
-      font-size: 40px;
+      font-size: 30px;
       margin-right: 70px;
       transition: text-shadow 500ms, color 500ms, font-size 500ms;
 }
 
 h2:hover {
       text-shadow: 2px 2px 8px;
-      font-size: 50px;
+      font-size: 35px;
       color: lightgreen;
 }
 #icon {
       vertical-align: middle;
-      margin-right: 75px;
+      margin-right: 60px;
 }
 #resume {
-      margin-left: 140px;
+      margin-left: 100px;
       text-decoration: none;
       color: #87cefa;
-      font-size: 40px;
+      font-size: 30px;
       font-family: "Poiret One";
 }
 #app {
 
 }
 #me {
-  width: 1000px;
-  height: 850px;
+  width: 700px;
+  height: 600px;
   transition: background 500ms, border 500ms;
   margin-top: 40px;
   margin-left: 70px;
@@ -55,7 +55,7 @@ h2:hover {
   background: url("cake.jpg");
 }
 #codepen {
-      margin-right: 135px;
+      margin-right: 100px;
 }
 body {
       background-image: url("stars.gif");
@@ -65,7 +65,7 @@ body {
 p {
       font-family: "Palatino", serif;
       color: lightcyan;
-      font-size: 25px;
+      font-size: 20px;
       text-align: justify;
       margin-left: 50px;
 }
@@ -73,7 +73,7 @@ p {
 p1 {
       font-family: "Palatino";
       color: lightcyan;
-      font-size: 25px;
+      font-size: 20px;
       text-align: justify;
       display: block;
       margin-left: 40px;
