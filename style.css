@@ -8,7 +8,7 @@ h1 {
       font-family: "Forum";
       color: #87cefa;
       font-size: 40px;
-      padding-top: 50px;
+      padding-top: 125px;
       margin-right: 70px;
       transition: text-shadow 500ms, color 500ms, font-size 500ms;
 }
