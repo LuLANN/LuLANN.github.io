@@ -52,13 +52,20 @@ section {
       padding-right: 10px;
       margin-right: 30px;
 }
-#resume {
+#resume{
       margin-left: 100px;
       text-decoration: none;
       color: #87cefa;
       font-size: 15px;
       font-family: "Forum";
 }
+
+#chrome {
+  font-family: "Forum";
+  color: #87cefa;
+  text-decoration: none;
+}
+
 #app {
   margin-bottom: 50px;
 }
