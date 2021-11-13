@@ -50,11 +50,12 @@ section {
 }
 #icon {
       vertical-align: middle;
-      padding-right: 10px;
-      margin-right: 30px;
+      padding-right: 5px;
+      margin-left: 45px;
+      padding-bottom: 10px;
 }
 #resume{
-      margin-left: 100px;
+      margin-left: 95px;
       text-decoration: none;
       color: #87cefa;
       font-size: 15px;
