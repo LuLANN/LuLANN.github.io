@@ -21,8 +21,6 @@ h2 {
       font-family: "Forum";
       color: #87cefa;
       font-size: 30px;
-      margin-top: 30px;
-      margin-right: 70px;
       transition: text-shadow 500ms, color 500ms, font-size 500ms;
 }
 
