@@ -24,10 +24,10 @@ h2 {
       transition: text-shadow 500ms, color 500ms, font-size 500ms;
 }
 
-h2:hover {
+#enviro:hover {
       text-shadow: 2px 2px 8px;
       font-size: 40px;
-      color: lightgreen;
+      color: rgb(144, 238, 167);
 }
 #write:hover {
       text-shadow: 2px 2px 8px;
