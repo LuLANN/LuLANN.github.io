@@ -29,6 +29,11 @@ h2:hover {
       font-size: 40px;
       color: lightgreen;
 }
+#write:hover {
+      text-shadow: 2px 2px 8px;
+      font-size: 40px;
+      color: rgb(208, 144, 238);
+}
 
 h3 {
       font-family: "Forum";
